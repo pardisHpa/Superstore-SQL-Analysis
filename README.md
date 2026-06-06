@@ -52,3 +52,11 @@ across regions, product categories, customer segments, and time periods.
 ---
 
 ## 📁 File Structure
+
+
+## 👩‍💻 Author
+
+**Pardis Hosseinpouraghdam**  
+MSc Data Analytics — Arden University Berlin  
+📎 [GitHub Profile](https://github.com/pardisHpa)  
+📎 [LinkedIn](https://www.linkedin.com/in/pardis-hosseinpouraghdam)
