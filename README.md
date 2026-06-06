@@ -53,6 +53,11 @@ across regions, product categories, customer segments, and time periods.
 
 ## 📁 File Structure
 
+| File | Description |
+|---|---|
+| `superstore_analysis.sql` | All 10 business queries with comments |
+| `README.md` | Project documentation and insights |
+
 
 ## 👩‍💻 Author
 
